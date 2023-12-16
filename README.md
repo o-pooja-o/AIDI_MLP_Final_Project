@@ -24,7 +24,7 @@ This notebook requires specific libraries to be installed. Run the following com
 ```python
 !pip install tensorflow
 ```
-Also, there are 2 datasets used in this repo, which are multiclassification.csv and binary classification.csv which can be found in our repository.
+Also, there are 2 datasets used in this repo, which are multiclassification.csv and binary classification.csv which can be found in content folder of our repository.
 In Google Colab add these files in content/sample_data and run cells from the top. 
 
 
